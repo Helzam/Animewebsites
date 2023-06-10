@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+.text{
+
+color: white;
+font-size: medium;
+
+
+
+}
+
+
+#banner  {
+
+width: 900px;
+height: 100px;
+display: table-cell;
+vertical-align: middle;
+background-color: rgb(32, 9, 245);
+
+}
+
+p {
+  color: red;
+}
+
+ul {
+  color: red;
+}
